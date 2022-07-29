@@ -1,5 +1,9 @@
 
-//testing brooo apakah masuk?
+    
+    
+    
+    ---SEMOGA PROJECT INI GABIKIN TIPES---
+
 
 # Getting Started with Create React App
 
