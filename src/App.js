@@ -2,6 +2,7 @@
 import './App.css';
 import Navbar from '../src/Components/Navbar';
 import LoginAdmin from './Admin/Login/Login';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -11,6 +12,9 @@ function App() {
       </div>
       <div className='loginAdmin'>
             <LoginAdmin />
+      </div>
+      <div className='footer'>
+            <Footer />
       </div>
     </div>
   );
